@@ -7,7 +7,7 @@ function Navbar() {
        <h1> HIREN PATEL'S PORTFOLIO</h1>
        <ul class="Navbar-nav ml-auto navitem-indent">
        <li class="nav-item">
-                    <Link to="/Home">
+                    <Link to="/">
                         <div >
                             <img src='https://www.clipartmax.com/png/small/14-142308_home-icon-png-orange.png' alt='home page' height={30}/>
 
