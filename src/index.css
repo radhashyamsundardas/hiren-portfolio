@@ -1,4 +1,37 @@
-body {
+body{
+  background-image: url('https://trbahadurpur.com/wp-content/uploads/2021/01/background-11.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  text-align: center;
+  color: black;
+  font: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  color: rgb(0, 0, 0);
+}
+h2 {
+  display: flex;
+  list-style: none;
+  text-align: right;
+  justify-content: flex-end;
+  justify-content: space-evenly;
+  text-decoration: none;
+  color: black;
+
+}
+ul{
+  display: flex;
+  list-style: none;
+  text-align: right;
+  justify-content: flex-end;
+  justify-content: space-evenly;
+  text-decoration: none;
+  color: black;
+}
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +43,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+} */
