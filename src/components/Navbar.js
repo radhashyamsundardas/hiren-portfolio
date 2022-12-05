@@ -9,7 +9,7 @@ function Navbar() {
        <li class="nav-item">
                     <Link to="/Home">
                         <div >
-                            <img src='https://www.clipartmax.com/png/small/14-142308_home-icon-png-orange.png' height={30}></img>
+                            <img src='https://www.clipartmax.com/png/small/14-142308_home-icon-png-orange.png' alt='home page' height={30}/>
 
                         </div>
                     </Link>
