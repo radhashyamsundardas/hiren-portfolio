@@ -22,7 +22,7 @@ function Footer() {
 
             <div>
                 <img src='https://storage.googleapis.com/wzukusers/user-18209628/images/5c083c846ba38dG1mXw6/namaste-hand-drawn-vector-20399758.jpg' alt='Namaste' style={{height:75}}/>
-            <h3>from Hiren Patel</h3>
+                <h3>from Hiren Patel</h3>
             </div>
             
     </footer>
