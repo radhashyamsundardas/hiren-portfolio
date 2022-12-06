@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 function Navbar() {
   return (
     <div>
-       <h1> HIREN PATEL'S PORTFOLIO</h1>
+       <h1> HIREN PATEL</h1>
        <ul class="Navbar-nav ml-auto navitem-indent">
        <li class="nav-item">
                     <Link to="/">
