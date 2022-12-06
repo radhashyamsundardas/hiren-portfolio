@@ -3,146 +3,176 @@ import React from 'react'
 
 
 function Resume() {
-    return (
-      <div class="biodata">
-        <div class="container mt-5">
-          <h2>Resume</h2>
-          <button  className="primary-button font-bold"><a href="">View as PDF</a></button>
-          <hr />
-          <h3>Professional Summary</h3>
-            <div>                    
-              <div class="row">
-                <div class="col-md-4">
-                </div>  
-                <div class="col-md-8">
-                  <p>
-                  <strong>Full-Stack Developer and Insightful manager</strong>  with experience of handling a team of 80 people and directing and improving operations through effective employee motivational strategies. 
-                  A talented leader with analytical approach to business planning and day to day problem solving. 
-                  Proficient in analyzing market trends and regulatory requirements of industry.
-                  </p>
-                </div>
-              </div>                 
-            </div>
-                     
-          <hr />
-
-          <h3>Experience</h3>
-          <br />
+  return (
+    <div class="biodata">
+      <div class="container mt-5">
+        <h2>Resume</h2>
+        <button className="primary-button font-bold"><a href="">View as PDF</a></button>
+        <hr />
+        <h3>Professional Summary</h3>
+        <div>
           <div class="row">
             <div class="col-md-4">
-              <h5>WE WORKOUT EQUIPMENTS</h5>
+            </div>
+            <div class="col-md-8">
+              <p>
+                <strong>Full-Stack Developer and Insightful manager</strong>  with experience of handling a team of 80 people and directing and improving operations through effective employee motivational strategies.
+                A talented leader with analytical approach to business planning and day to day problem solving.
+                Proficient in analyzing market trends and regulatory requirements of industry.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <hr />
+
+        <h3>Web DeveloperExperience</h3>
+        <br />
+
+        <div class="col-md-4">
+          <h3>Woodlane Pharmacy</h3>
+          <p>November 2021 - May 2022</p>
+        </div>
+        <div class="col-md-8">
+          <p>
+            ● Worked with Design, Development and Deployment of MERN stack applications.<br></br>
+            ● Developed backend modules using Express.js and Node.js.<br></br>
+            ● Worked with Bootstrap for designing automation framework.<br></br>
+            ● Worked with Dynamic and static queries for MySQL server. Analyzed and improved the
+            performance of various queries and stored procedures.<br></br>
+            ● Worked in agile environment.<br></br>
+            ● Designed front end using HTML, Bootstrap, Node JS, Css, and JavaScript.<br></br>
+            ● Worked with Object-Oriented Programming using third-party dependencies, and creating
+            interactive command-line applications.
+          </p>
+        </div>
+        <h5>Projects </h5>
+        <div class="row">
+          <div class="col-md-4">
+            <h4>WORKOUT EQUIPMENTS</h4>
+            <p>December 2022</p>
+          </div>
+          <div class="col-md-8">
+            <p>
+              <strong>Web Application</strong> where user can buy all the workout equipments with discounted price.
+              website for workout lovers who can find the best deals for workout equipments as well as apparel.
+              this project is also going to be marketplace where user will be able to buy and sell their their products too.
+              Application was made using client and server side using react.js and Graphql.
+            </p>
+          </div>
+
+
+          <div class="col-md-4">
+            <h5>TECHWREK</h5>
+            <p>November 2022</p>
+          </div>
+          <div class="col-md-8">
+            <p>
+              <strong> 2 SERVER SIDE API's </strong> were used to make this application which can help junior web developers to find all the resources which they can find in one spot and also start discussions and share their tech journey.
+              help junior web developers with development resources which they can find in this website as well as share their tech world experiences. They can also share issues and provide feedback which can be helpful to other junior web developers. This is  project which also enhanced my FRONTEND as well as our BACKEND skills.
+
+            </p>
+          </div>
+
+
+          <div class="col-md-4">
+            <h5>Film Detective</h5>
+            <p>October 2022</p>
+          </div>
+          <div class="col-md-8">
+            <p>
+              <strong>Film Detective</strong>is  a website where user can find their favourite movies and watch them and also leave review.
+              This application would be one stop shop who loves watching movies and leaves reviews as well.
+              In this project there were some important skills we were aable to learn such as pair programming, team colabration.
+              there were different languages we used HTML, CSS, and JAVASCRIPT. we also used libraries such as bootstrap and jquery.
+
+            </p>
+          </div>
+
+
+          <div class="col-md-4">
+            <h5>Employee Tracker</h5>
+            <p>November 2022</p>
+          </div>
+          <div class="col-md-8">
+            <p>
+              <strong>Content management system</strong> application that allows managers to view and update a company's employee database.
+              This application is about making a backend application using Mysql, Node.js, and Express.js where company can also track their employees .
+              This application will be more time saving as well as efficient for the business owners.
+            </p>
+          </div>
+
+          <div class="col-md-4">
+            <h5>Weather Dashboard</h5>
+            <p>September 2022</p>
+          </div>
+          <div class="col-md-8">
+            <p>
+              <strong>Open Weather Map API</strong> was used to fetch data and create application which shows 5 days weather forecast. Every time new city is entered weather displays accordingly. The main skill which was used was to understand and used API and how to fetch data from APi.
+
+            </p>
+          </div>
+        </div>
+
+        <hr />
+
+        <h3>Additional Experience</h3>
+        <br />
+        <div class="row">
+          <div class="col-md-4">
+            <h5>Pharmacy technician(manger)</h5>
+            <p>Specialty Rx, Ridgefield Park, New Jersey</p>
+            <p>May 2008 - May 2021</p>
+          </div>
+          <div class="col-md-8">
+            <p>
+              ● Handled payroll of 80 team members, scheduling employees, and recruiting new hires.<br></br>
+              ● Processing prescriptions and helping Pharmacists with deliveries and making sure patients
+              receive all their medication.<br></br>
+              ● Ordering inventory and Audits every quarterly.<br></br>
+              ● Working on quarterly goals as well as yearly goals.<br></br>
+              ● Working on returns and prepack departments and making sure all returns are processed.<br></br>
+              ● Handling narcotics as well as IV department.
+            </p>
+          </div>
+        </div>
+        <hr />
+
+        <h3>Education</h3>
+        <br />
+        <div>
+          <div class="row">
+            <div class="col-md-4">
+              <h4>Georgia Tech University</h4>
               <p>December 2022</p>
             </div>
             <div class="col-md-8">
               <p>
-                <strong>Web Application</strong> where user can buy all the workout equipments with discounted price
-                </p>
-            </div>
-              
-
-            <div class="col-md-4">
-                <h5>Find My Movie</h5>
-                <p>October 2022</p>
-            </div>
-            <div class="col-md-8">
-              <p>
-                <strong>Two server-side APIs</strong>were used to create an interactive application that call datas to produce a list of movies as well as details about each. 
-                Both the browser and feature are dynamically updated with HTML and CSS.  Additionally, we used local storage to allow a user to create a watch list.  This project was created in a group using Agile methodology. We utilized  Github to plan and track our project, working on branches and merging to main project.
-              </p>
-            </div>
-
-            <div class="col-md-4">
-                <h5>Employee Tracker</h5>
-                <p>November 2022</p>
-            </div>
-            <div class="col-md-8">
-              <p>
-                <strong>Content management system</strong>(CMS) application that allows managers to view and update a company’s employee database.  This project was built using Node.js, Inquirer.js, and MySQL.
-              </p>
-            </div>
-
-            <div class="col-md-4">
-                <h5>Weather Dashboard</h5>
-                <p>October 2022</p>
-            </div>
-            <div class="col-md-8">
-              <p>
-                <strong>Server-side API</strong>(CMS) allows users to call data for the current weather and future forecast weather for a particular city.  Both the browser and feature dynamically updated with HTML and CSS.  The application uses local storage to persist data, so that users can create a list of cities to quickly return to their search history. 
+                <strong>Certification: Full Stack Web Development</strong>
               </p>
             </div>
           </div>
 
-          <hr />
-
-          <h3>Additional</h3>
-          <h3>Experience</h3>
-          <br />
           <div class="row">
             <div class="col-md-4">
-              <h5>Educator</h5>
-              <p>Fulton & Forsyth Counties, Georgia</p>
-              <p>2006 - 2022</p>
+              <h4>B.J.V.M</h4>
+                <strong>Bachelors in Commerce.</strong>
+                <p>March 1999 - April 2002</p>
+              <p>Vallabh Vidhyanagar, Gujarat, India</p>
+              <strong>Languages:-</strong> Native/Fluent | Hindi - Native/Fluent | Gujarati - Native/Fluent
             </div>
-            <div class="col-md-8">
-              <p>
-                <strong>For sixteen years</strong>I had a distinguished career in Elementary and Middle Grades Education, teaching grades Pre-Kindergarten through Seventh. I served as grade level chair for Response to Intervention to determine data-driven next steps for students to encourage successful outcomes, behaviorally and academically.  I also analyzed assessment data to assist students in developing long- and short-term goals, often collaborating with a range of professionals to meet individual student’s various needs.
+           
+          </div>
 
-              </p>
+          
             </div>
           </div>
-          <hr />
-
-          <h3>Education</h3>
-            <br />
-            <div>      
-              <div class="row">
-                <div class="col-md-4">
-                  <h5>Georgia Tech Institute of Technolog</h5>
-                  <p>Atlanta, GA <br />
-                    December 2022			</p>
-                </div>
-                <div class="col-md-8">
-                  <p>
-                    <strong>Certificate: Full Stack Web Development</strong>
-                  </p>
-                </div>
-              </div>
-              
-              <div class="row">
-                <div class="col-md-4">
-                  <h5>Oglethorpe University</h5>
-                  <p>Athens, GA <br />
-                    May 2006</p>
-                </div>
-                <div class="col-md-8">
-                  <p>
-                    <strong>Master of Arts in Teaching</strong>
-                    <br />GPA 4.0, Summa Cum Laude
-
-                  </p>
-                </div>
-              </div>
-
-              <div class="row">
-                <div class="col-md-4">
-                  <h5>University of Georgia</h5>
-                  <p>Atlanta, GA <br />
-                    May 1999</p>
-                </div>
-                <div class="col-md-8">
-                  <p>
-                    <strong>B.S.Ed of Communication Sciences and Disorders</strong>
-                    <br />GPA 3.74, Cum Laude <br />
-                    Golden Key National Honors Society <br />
-                    Kappa Alpha Epsilon Honor Society
-                  </p>
-                </div>
-              </div>                      
-            </div>
         </div>
       
-      </div>
-    )};
-  
-  export default Resume;
+
+   
+  )
+};
+
+export default Resume;
 
