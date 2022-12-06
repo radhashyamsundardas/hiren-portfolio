@@ -4,19 +4,21 @@ import React from 'react'
 
 function Resume() {
     return (
-      <div>
-        <div id="biodata" class="container mt-5">
+      <div class="biodata">
+        <div class="container mt-5">
           <h2>Resume</h2>
           <button  className="primary-button font-bold"><a href="">View as PDF</a></button>
           <hr />
-          <h3>Profile</h3>
+          <h3>Professional Summary</h3>
             <div>                    
               <div class="row">
                 <div class="col-md-4">
                 </div>  
                 <div class="col-md-8">
                   <p>
-                  <strong>Team-minded Full-Stack Developer</strong> certified through Georgia Tech Institute with a background in Education. Excited to use my problem-solving, analytical,  and communication skills to work in a collaborative environment focused on building amazing applications through responsive web design.
+                  <strong>Full-Stack Developer and Insightful manager</strong>  with experience of handling a team of 80 people and directing and improving operations through effective employee motivational strategies. 
+                  A talented leader with analytical approach to business planning and day to day problem solving. 
+                  Proficient in analyzing market trends and regulatory requirements of industry.
                   </p>
                 </div>
               </div>                 
@@ -24,18 +26,17 @@ function Resume() {
                      
           <hr />
 
-          <h3>Relevant</h3>
           <h3>Experience</h3>
           <br />
           <div class="row">
             <div class="col-md-4">
-              <h5>Social Network API</h5>
-              <p>November 2022</p>
+              <h5>WE WORKOUT EQUIPMENTS</h5>
+              <p>December 2022</p>
             </div>
             <div class="col-md-8">
               <p>
-                <strong>Web application</strong> where users can share thoughts, react to friends’ thoughts, and  create a friend list. For this project, I utilized Express.js for routing, MongoDB for database and Mongoose.
-              </p>
+                <strong>Web Application</strong> where user can buy all the workout equipments with discounted price
+                </p>
             </div>
               
 
