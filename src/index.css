@@ -46,7 +46,20 @@ h5{
   color: brown;
 }
 #project{
-  padding-left: 105px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: flex-end;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#card{
+  background-color: red;
+}
+button{
+  background-color: #e12910;
+  color: white;
+
 }
 
  
