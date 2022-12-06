@@ -10,7 +10,7 @@ function Aboutme() {
     </div> */}
 
 
-      <p><h4>Hello Everyone I'm Hiren Patel, a student, Full Stack Web Developer, and aspiring spiritualist.</h4></p>
+      <p><h4>Hello Everyone I'm Hiren Patel, a student at Georgia Tech University, Full Stack Web Developer, and aspiring spiritualist.</h4></p>
 
       <p><h4>
         Currently I am student at Georgia Tech University, and Pharmacy Technician on the side. <br />
