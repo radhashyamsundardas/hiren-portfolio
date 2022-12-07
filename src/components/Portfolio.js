@@ -3,6 +3,9 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import we from "/Users/hirenpatel/Desktop/hiren-portfolio/src/assets/images/we.png";
 import Weather from "/Users/hirenpatel/Desktop/hiren-portfolio/src/assets/images/weather.pnj.png";
+import Film from "/Users/hirenpatel/Desktop/hiren-portfolio/src/assets/images/Film.pnj.png";
+import Work from "/Users/hirenpatel/Desktop/hiren-portfolio/src/assets/images/work.pnj.png";
+import Skills from "/Users/hirenpatel/Desktop/hiren-portfolio/src/assets/images/skills.pnj.png";
 
 
 
@@ -38,6 +41,22 @@ function Portfolio() {
           </Card.Body>
         </Card>
 
+        <Card style={style.body}>
+          <Card.Img
+            variant="top"
+            src={Film} alt="Film Detective"
+            height={250}
+          />
+          <Card.Body>
+            <h2>Film Detective </h2>
+            <Card.Text>
+            This application was made using Html, Css, Javascript,Bootstrap, Jquery. 
+            A website where user can find their favourite movie and watch them and also leave review.
+  </Card.Text>
+            <h6> </h6>
+            <a target="_blank" href="https://wakasagi-burt.github.io/first-baby/"> <Button variant="primary">CLICK ME</Button></a>
+          </Card.Body>
+        </Card>
 
         <Card style={style.body}>
           <Card.Img
@@ -60,38 +79,22 @@ function Portfolio() {
 
 
 
-        <Card style={style.body}>
-          <Card.Img
-            variant="top"
-            src={we} alt="we"
-            height={250}
-          />
-          <Card.Body>
-            <h2>Workout Equipments </h2>
-            <Card.Text>
-              Application made with Client and server side using React.js and Graphql.
-              Ecommerce website for workout lovers who can find the best deals for workout equipments as well as apparel.
-  </Card.Text>
-            <h6> </h6>
-            <a target="_blank" href="https://ecommercegt.herokuapp.com/"> <Button variant="primary">CLICK ME</Button></a>
-          </Card.Body>
-        </Card>
 
 
         <Card style={style.body}>
           <Card.Img
             variant="top"
-            src={we} alt="we"
+            src={Work} alt="Workday Schedular"
             height={250}
           />
           <Card.Body>
-            <h2>Workout Equipments </h2>
+            <h2>Workday Schedular </h2>
             <Card.Text>
-              Application made with Client and server side using React.js and Graphql.
-              Ecommerce website for workout lovers who can find the best deals for workout equipments as well as apparel.
+            This project is about daily schedular and it can help you manage your work schedule
+            There were application of jquery, bootstrap, momentjs and javascript to accomplish the task
   </Card.Text>
             <h6> </h6>
-            <a target="_blank" href="https://ecommercegt.herokuapp.com/"> <Button variant="primary">CLICK ME</Button></a>
+            <a target="_blank" href="https://radhashyamsundardas.github.io/daily-scheduler/"> <Button variant="primary">CLICK ME</Button></a>
           </Card.Body>
         </Card>
 
@@ -102,14 +105,14 @@ function Portfolio() {
         <Card style={style.body}>
           <Card.Img
             variant="top"
-            src={we} alt="we"
+            src={Skills} alt="Skills"
             height={250}
           />
           <Card.Body>
-            <h2>Workout Equipments </h2>
+            <h2>Portfolio </h2>
             <Card.Text>
-              Application made with Client and server side using React.js and Graphql.
-              Ecommerce website for workout lovers who can find the best deals for workout equipments as well as apparel.
+              Application made with React.js. The purpose of this application was to showcase my technical skills.
+              
   </Card.Text>
             <h6> </h6>
             <a target="_blank" href="https://ecommercegt.herokuapp.com/"> <Button variant="primary">CLICK ME</Button></a>
@@ -121,17 +124,16 @@ function Portfolio() {
         <Card style={style.body}>
           <Card.Img
             variant="top"
-            src={we} alt="we"
+            src="" alt=""
             height={250}
           />
           <Card.Body>
-            <h2>Workout Equipments </h2>
+            <h2>Coming Soon </h2>
             <Card.Text>
-              Application made with Client and server side using React.js and Graphql.
-              Ecommerce website for workout lovers who can find the best deals for workout equipments as well as apparel.
+              
   </Card.Text>
             <h6> </h6>
-            <a target="_blank" href="https://ecommercegt.herokuapp.com/"> <Button variant="primary">CLICK ME</Button></a>
+            <a target="_blank" href=""> <Button variant="primary">CLICK ME</Button></a>
           </Card.Body>
         </Card>
     </div>
