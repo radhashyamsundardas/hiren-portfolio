@@ -115,7 +115,7 @@ function Portfolio() {
               
   </Card.Text>
             <h6> </h6>
-            <a target="_blank" href="https://ecommercegt.herokuapp.com/"> <Button variant="primary">CLICK ME</Button></a>
+            <a target="_blank" href=" https://radhashyamsundardas.github.io/hiren-portfolio/"> <Button variant="primary">CLICK ME</Button></a>
           </Card.Body>
         </Card>
 

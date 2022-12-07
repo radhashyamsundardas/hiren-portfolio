@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b048689d.css",
-    "main.js": "/static/js/main.1c3df2c8.js",
-    "static/js/787.07718324.chunk.js": "/static/js/787.07718324.chunk.js",
-    "index.html": "/index.html",
-    "main.b048689d.css.map": "/static/css/main.b048689d.css.map",
-    "main.1c3df2c8.js.map": "/static/js/main.1c3df2c8.js.map",
-    "787.07718324.chunk.js.map": "/static/js/787.07718324.chunk.js.map"
+    "main.css": "/radhashyamsundardas/hiren-portfolio/static/css/main.99bc87f1.css",
+    "main.js": "/radhashyamsundardas/hiren-portfolio/static/js/main.0c4c9841.js",
+    "static/js/787.07718324.chunk.js": "/radhashyamsundardas/hiren-portfolio/static/js/787.07718324.chunk.js",
+    "static/media/Film.pnj.png": "/radhashyamsundardas/hiren-portfolio/static/media/Film.pnj.7395bbcd477f3d235cee.png",
+    "static/media/skills.pnj.png": "/radhashyamsundardas/hiren-portfolio/static/media/skills.pnj.10ce9ea204acad0cc516.png",
+    "static/media/we.png": "/radhashyamsundardas/hiren-portfolio/static/media/we.0326dd4b4661a17b003d.png",
+    "static/media/work.pnj.png": "/radhashyamsundardas/hiren-portfolio/static/media/work.pnj.3bdd907b42b5185442fe.png",
+    "static/media/weather.pnj.png": "/radhashyamsundardas/hiren-portfolio/static/media/weather.pnj.2b2cc1ee9c2c53072601.png",
+    "index.html": "/radhashyamsundardas/hiren-portfolio/index.html",
+    "main.99bc87f1.css.map": "/radhashyamsundardas/hiren-portfolio/static/css/main.99bc87f1.css.map",
+    "main.0c4c9841.js.map": "/radhashyamsundardas/hiren-portfolio/static/js/main.0c4c9841.js.map",
+    "787.07718324.chunk.js.map": "/radhashyamsundardas/hiren-portfolio/static/js/787.07718324.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b048689d.css",
-    "static/js/main.1c3df2c8.js"
+    "static/css/main.99bc87f1.css",
+    "static/js/main.0c4c9841.js"
   ]
 }
